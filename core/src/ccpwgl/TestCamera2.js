@@ -229,7 +229,7 @@ TestCamera.prototype._DragStop = function (event)
             this.shiftStage = 1;
         }
     }
-}
+};
 
 
 TestCamera.prototype._WheelHandler = function (event, element)
